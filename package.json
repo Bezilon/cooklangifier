@@ -1,0 +1,24 @@
+{
+  "name": "cooklangifier",
+  "version": "1.0.0",
+  "description": "A conversion tool to help translate various recipe formats to cooklang",
+  "keywords": [
+    "cooklang",
+    "markdown"
+  ],
+  "homepage": "https://github.com/Bezilon/cooklangifier#readme",
+  "bugs": {
+    "url": "https://github.com/Bezilon/cooklangifier/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bezilon/cooklangifier.git"
+  },
+  "license": "MIT",
+  "author": "Balázs Kovács",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
